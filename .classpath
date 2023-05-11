@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="C:/Program Files/Microsoft JDBC DRIVER 12.2 for SQL Server/sqljdbc_12.2/enu/mssql-jdbc-12.2.0.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Microsoft JDBC DRIVER 12.2 for SQL Server/sqljdbc_12.2/enu/mssql-jdbc-12.2.0.jre11.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
